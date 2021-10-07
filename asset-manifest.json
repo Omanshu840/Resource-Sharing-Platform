@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/rsp/static/css/main.9b64a72e.chunk.css",
-    "main.js": "/rsp/static/js/main.b2095a31.chunk.js",
-    "main.js.map": "/rsp/static/js/main.b2095a31.chunk.js.map",
-    "runtime-main.js": "/rsp/static/js/runtime-main.45f6acea.js",
-    "runtime-main.js.map": "/rsp/static/js/runtime-main.45f6acea.js.map",
-    "static/css/2.27dd871e.chunk.css": "/rsp/static/css/2.27dd871e.chunk.css",
-    "static/js/2.93f98139.chunk.js": "/rsp/static/js/2.93f98139.chunk.js",
-    "static/js/2.93f98139.chunk.js.map": "/rsp/static/js/2.93f98139.chunk.js.map",
-    "index.html": "/rsp/index.html",
-    "static/css/2.27dd871e.chunk.css.map": "/rsp/static/css/2.27dd871e.chunk.css.map",
-    "static/css/main.9b64a72e.chunk.css.map": "/rsp/static/css/main.9b64a72e.chunk.css.map",
-    "static/js/2.93f98139.chunk.js.LICENSE.txt": "/rsp/static/js/2.93f98139.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/rsp/static/media/background.e068c04c.jpg",
-    "static/media/logo.6e6c7cdd.png": "/rsp/static/media/logo.6e6c7cdd.png"
+    "main.css": "/Resource-Sharing-Platform/static/css/main.54400bee.chunk.css",
+    "main.js": "/Resource-Sharing-Platform/static/js/main.b2095a31.chunk.js",
+    "main.js.map": "/Resource-Sharing-Platform/static/js/main.b2095a31.chunk.js.map",
+    "runtime-main.js": "/Resource-Sharing-Platform/static/js/runtime-main.2439a475.js",
+    "runtime-main.js.map": "/Resource-Sharing-Platform/static/js/runtime-main.2439a475.js.map",
+    "static/css/2.27dd871e.chunk.css": "/Resource-Sharing-Platform/static/css/2.27dd871e.chunk.css",
+    "static/js/2.93f98139.chunk.js": "/Resource-Sharing-Platform/static/js/2.93f98139.chunk.js",
+    "static/js/2.93f98139.chunk.js.map": "/Resource-Sharing-Platform/static/js/2.93f98139.chunk.js.map",
+    "index.html": "/Resource-Sharing-Platform/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/Resource-Sharing-Platform/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.54400bee.chunk.css.map": "/Resource-Sharing-Platform/static/css/main.54400bee.chunk.css.map",
+    "static/js/2.93f98139.chunk.js.LICENSE.txt": "/Resource-Sharing-Platform/static/js/2.93f98139.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Resource-Sharing-Platform/static/media/background.e068c04c.jpg",
+    "static/media/logo.6e6c7cdd.png": "/Resource-Sharing-Platform/static/media/logo.6e6c7cdd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.45f6acea.js",
+    "static/js/runtime-main.2439a475.js",
     "static/css/2.27dd871e.chunk.css",
     "static/js/2.93f98139.chunk.js",
-    "static/css/main.9b64a72e.chunk.css",
+    "static/css/main.54400bee.chunk.css",
     "static/js/main.b2095a31.chunk.js"
   ]
 }
